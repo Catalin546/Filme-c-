@@ -1,0 +1,1 @@
+/usr/bin/c++ --coverage -g CMakeFiles/Filme.dir/main.cpp.o CMakeFiles/Filme.dir/filme.cpp.o CMakeFiles/Filme.dir/ui.cpp.o CMakeFiles/Filme.dir/filme_repo.cpp.o CMakeFiles/Filme.dir/filme_service.cpp.o CMakeFiles/Filme.dir/validare.cpp.o CMakeFiles/Filme.dir/teste.cpp.o CMakeFiles/Filme.dir/generic_Vector.cpp.o -o Filme 

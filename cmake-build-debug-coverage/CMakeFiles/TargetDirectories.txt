@@ -1,0 +1,3 @@
+/mnt/d/Sem2/oop/Filme/cmake-build-debug-coverage/CMakeFiles/Filme.dir
+/mnt/d/Sem2/oop/Filme/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
+/mnt/d/Sem2/oop/Filme/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir
